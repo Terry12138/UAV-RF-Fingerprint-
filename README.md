@@ -3,3 +3,5 @@ This repository includes data of micro UAV RF signal received by USPR B210, matl
 Matlab data file after extracting time-frequency features by STFT: https://drive.google.com/drive/folders/1BECYsFS-IcnBZVThTevdL6yyWPvAzuMp?usp=sharing
 
 Raw cf.32 signal data received by USRP b210: https://drive.google.com/drive/folders/1LETvV20HV25hFgVFArUqHSspYAxhz7Z4?usp=sharing
+
+Notation explaination: v-video (downlink) signal, c-control (uplink) signal, 1,2-number of unknown UAV in test field, straight-surround- flying trajectory, RX#-receiver channel 
